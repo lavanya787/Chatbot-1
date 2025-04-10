@@ -1,0 +1,9 @@
+retrieve records with high attendance
+filter students who scored above 90
+visualize sales data for last month
+evaluate the accuracy of the model
+optimize the decision tree model
+debug this error in the dataset
+correlate age with income level
+validate the model predictions against test data
+hii
